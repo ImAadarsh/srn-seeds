@@ -11,7 +11,7 @@
                         <img class="logo" src="assets/img/logo-light.png" alt="Logo">
                         <p>
                             The trust of farmers has inspired us to adopt latest and best technologies for
-                            delivering better yields.
+                            delivering better yields.
                         </p>
                         <form action="#">
                             <input type="email" placeholder="Your Email" class="form-control" name="email">
@@ -63,7 +63,7 @@
                                 <div class="content">
                                     <strong>Address:</strong>
                                     A-129 (M), Road No 9C,
-                                    <br> Vishwakarma Industrial Area (VKI Area), Jaipur, Rajasthan- 302013
+                                    <br> Vishwakarma Industrial Area (VKI Area), Jaipur, Rajasthan- 302013
                                 </div>
                             </li>
                             <li>
@@ -95,7 +95,7 @@
         <div class="footer-bottom">
             <div class="row">
                 <div class="col-lg-6">
-                    <p>&copy; Copyright 2022. All Rights Reserved by <a href="https://endeavourdigital.in">Endeavour
+                    <p>&copy; Copyright <?php echo date('Y'); ?>. All Rights Reserved by <a href="https://endeavourdigital.in">Endeavour
                             Digital</a></p>
                 </div>
                 <div class="col-lg-6 text-end">
