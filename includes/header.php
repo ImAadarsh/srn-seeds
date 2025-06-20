@@ -90,8 +90,15 @@
 
                             </li>
                             <li class="dropdown">
-                                <a href="product.php" data-toggle="dropdown">Products</a>
-
+                                <a href="product.php" data-toggle="dropdown" class="dropdown-toggle">Products <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="product.php"">Cereal crops</a></li>
+                                    <li><a href="product.php"">Fodder crops</a></li>
+                                    <li><a href="product.php"">Pulses crops</a></li>
+                                    <li><a href="product.php"">Vegetable & fruit crops</a></li>
+                                    <li><a href="product.php"">Kitchen garden products</a></li>
+                                    <li><a href="product.php"">Flower seeds</a></li>
+                                </ul>
                             </li>
                             <li class="dropdown">
                                 <a href="about-us.php" data-toggle="dropdown">About Us</a>
