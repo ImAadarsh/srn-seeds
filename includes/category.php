@@ -10,15 +10,13 @@
                 <div class="col-lg-5">
                     <div class="left-info">
                         <h5 class="sub-title">What we do</h5>
-                        <h2 class="title">Currently we are <br> selling best seeds products</h2>
+                        <h2 class="title">Explore Our Product Categories</h2>
                     </div>
                 </div>
                 <div class="col-lg-6 offset-lg-1">
                     <div class="right-info">
                         <p>
-                            SRN Seeds is a leading company that specializes in providing high-quality seeds to farmers
-                            and gardening enthusiasts. We offer a wide range of seeds including vegetable seeds, flower
-                            seeds, herb seeds, and much more.
+                            SRN Seeds offers a wide range of high-quality seeds for Indian farmers and gardeners. Discover our specialized categories below.
                         </p>
                         <a class="btn btn-theme btn-md radius animation" href="#">Discover More</a>
                     </div>
@@ -32,57 +30,86 @@
                 <div class="services-style-one-carousel swiper">
                     <!-- Additional required wrapper -->
                     <div class="swiper-wrapper">
-                        <!-- Single Item -->
+                        <!-- Single Item: Cereal crops -->
                         <div class="swiper-slide">
                             <div class="services-style-one">
-                                <a href="shop.php?id=2">
+                                <a href="#">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/1.png" alt="Image Not Found">
+                                        <img src="assets/img/thumb/cereal.png" alt="Cereal Crops">
                                     </div>
-                                    <h5><a href="shop.php?id=2">Vegetable seeds
-                                        </a></h5>
+                                    <h5>Cereal crops</h5>
                                     <p>
-                                        Vegetable seeds are essential for home gardeners and farmers to grow fresh
-                                        produce.
-                                        Choose high-quality seeds for a successful and bountiful harvest.
+                                        High-yielding seeds for wheat, rice, maize, and other staple cereals, supporting food security and farmer prosperity.
                                     </p>
                                 </a>
                             </div>
                         </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
+                        <!-- Single Item: Fodder crops -->
                         <div class="swiper-slide">
                             <div class="services-style-one">
-                                <a href="shop.php?id=1">
+                                <a href="#">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/2.png" alt="Image Not Found">
+                                        <img src="assets/img/thumb/fodder.png" alt="Fodder Crops">
                                     </div>
-                                    <h5><a href="shop.php?id=1">Field Crops seeds
-                                        </a></h5>
+                                    <h5>Fodder crops</h5>
                                     <p>
-                                        Premium quality field crop seeds for a bountiful harvest.<br> Choose from a wide
-                                        range
-                                        of varieties to suit your needs
-                                        <br>.
-                                        <br>.
+                                        Nutritious and resilient fodder crop seeds for livestock, ensuring healthy animals and sustainable dairy/farming operations.
                                     </p>
                                 </a>
                             </div>
                         </div>
-                        <!-- End Single Item -->
-
-                        <!-- Single Item -->
+                        <!-- Single Item: Pulses crops -->
                         <div class="swiper-slide">
                             <div class="services-style-one">
-                                <a href="shop.php?id=3">
+                                <a href="#">
                                     <div class="thumb">
-                                        <img src="assets/img/thumb/6.png" alt="Image Not Found">
+                                        <img src="assets/img/thumb/pulses.png" alt="Pulses Crops">
                                     </div>
-                                    <h5><a href="shop.php?id=3">Kitchen Garden Variety</a></h5>
+                                    <h5>Pulses crops</h5>
                                     <p>
-                                        A kitchen garden provides a variety of fresh produce at your fingertips.
-                                        <br>Choose
-                                        herbs, fruits, and vegetables that suit your taste and space.
+                                        Quality seeds for lentils, chickpeas, beans, and more—boosting protein intake and soil fertility through sustainable pulses.
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Single Item: Vegetable & fruit crops -->
+                        <div class="swiper-slide">
+                            <div class="services-style-one">
+                                <a href="#">
+                                    <div class="thumb">
+                                        <img src="assets/img/thumb/vegetable.png" alt="Vegetable & Fruit Crops">
+                                    </div>
+                                    <h5>Vegetable & fruit crops</h5>
+                                    <p>
+                                        Seeds for a wide variety of vegetables and fruits, enabling fresh, nutritious produce for homes and markets.
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Single Item: Kitchen garden products -->
+                        <div class="swiper-slide">
+                            <div class="services-style-one">
+                                <a href="#">
+                                    <div class="thumb">
+                                        <img src="assets/img/thumb/kitchen.png" alt="Kitchen Garden Products">
+                                    </div>
+                                    <h5>Kitchen garden products</h5>
+                                    <p>
+                                        Easy-to-grow seeds for home kitchen gardens—herbs, greens, and compact veggies for daily use and healthy living.
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Single Item: Flower seeds -->
+                        <div class="swiper-slide">
+                            <div class="services-style-one">
+                                <a href="#">
+                                    <div class="thumb">
+                                        <img src="assets/img/thumb/flower.png" alt="Flower Seeds">
+                                    </div>
+                                    <h5>Flower seeds</h5>
+                                    <p>
+                                        A colorful selection of flower seeds to beautify gardens, attract pollinators, and enhance landscapes.
                                     </p>
                                 </a>
                             </div>

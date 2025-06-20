@@ -10,7 +10,7 @@
 
             <!-- Single Item -->
             <div class="swiper-slide banner-style-one">
-                <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/banner/2.jpg);"></div>
+                <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/banner/1.jpg);"></div>
                 <div class="container">
                     <div class="row align-center">
                         <div class="col-xl-7">
@@ -33,6 +33,29 @@
 
             <!-- Single Item -->
             <div class="swiper-slide banner-style-one">
+                <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/banner/2.jpg);"></div>
+                <div class="container">
+                    <div class="row align-center">
+                        <div class="col-xl-7">
+                            <div class="content">
+                                <h4>Original & Natural</h4>
+                                <h2><strong>Organic Agriculture</strong> Farming Products</h2>
+                                <p>
+                                    Experience the power of nature with SRN Seeds.
+                                </p>
+                                <div class="button">
+                                    <a class="btn btn-theme secondary btn-md radius animation" href="#">Discover
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Item -->
+
+                        <!-- Single Item -->
+                        <div class="swiper-slide banner-style-one">
                 <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/banner/3.jpg);"></div>
                 <div class="container">
                     <div class="row align-center">
