@@ -1,9 +1,5 @@
-<!-- This file will be replaced by static HTML pages for each product. Example for Maize (Corn): -->
-<!-- shop-single-maize-corn.php -->
-<!-- Repeat for each product, using details and images from crop_details.txt and crop_images. -->
-<!-- The main shop-single.php can be a template or redirect, or you can remove its dynamic content. -->
-<!-- Example static content for Maize (Corn): -->
-<!--
+<?php include "includes/header.php"; ?>
+<!-- Start Breadcrumb -->
 <div class="breadcrumb-area shadow dark bg-cover text-center text-light" style="background-image: url(assets/img/2440x1578.png);">
     <div class="container">
         <div class="row">
@@ -17,6 +13,7 @@
         </div>
     </div>
 </div>
+<!-- End Breadcrumb -->
 <div class="validtheme-shop-single-area default-padding">
     <div class="container">
         <div class="product-details">
@@ -70,9 +67,8 @@
                                 <table class="table table-bordered">
                                     <tbody>
                                         <tr><td>Sowing Time</td><td>Kharif (Monsoon): June–July<br>Rabi (with irrigation): November–December<br>Zaid (summer crop): Feb–March</td></tr>
-                                        <tr><td>Seed Per Acre</td><td>18–25 kg/acre (depending on hybrid and spacing)</td></tr>
-                                        <tr><td>Packing Size</td><td>1 Kg and 4 Kg</td></tr>
-                                        <tr><td>Spacing</td><td>60 cm row-to-row × 20 cm plant-to-plant</td></tr>
+                                        <tr><td>Seed Rate & Spacing</td><td>Seed rate: 18–25 kg/acre (depending on hybrid and spacing)<br>Spacing: 60 cm row-to-row × 20 cm plant-to-plant</td></tr>
+                                        <tr><td>Packing Size</td><td>Available in 1 Kg and 4 Kg</td></tr>
                                     </tbody>
                                 </table>
                             </div>
@@ -83,6 +79,7 @@
         </div>
     </div>
 </div>
+<?php include "includes/footer.php"; ?>
 <style>
 .product-img-fixed {
     width: 250px;
@@ -91,5 +88,4 @@
     display: block;
     margin: 0 auto;
 }
-</style>
--->
+</style> 

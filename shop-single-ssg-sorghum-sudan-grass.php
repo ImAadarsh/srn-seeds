@@ -1,14 +1,10 @@
-<!-- This file will be replaced by static HTML pages for each product. Example for Maize (Corn): -->
-<!-- shop-single-maize-corn.php -->
-<!-- Repeat for each product, using details and images from crop_details.txt and crop_images. -->
-<!-- The main shop-single.php can be a template or redirect, or you can remove its dynamic content. -->
-<!-- Example static content for Maize (Corn): -->
-<!--
+<?php include "includes/header.php"; ?>
+<!-- Start Breadcrumb -->
 <div class="breadcrumb-area shadow dark bg-cover text-center text-light" style="background-image: url(assets/img/2440x1578.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12">
-                <h1>Maize (Corn)</h1>
+                <h1>SSG (Sorghum Sudan Grass)</h1>
                 <ul class="breadcrumb">
                     <li><a href="index.php"><i class="fas fa-home"></i> Home</a></li>
                     <li>SRN Seeds</li>
@@ -17,20 +13,21 @@
         </div>
     </div>
 </div>
+<!-- End Breadcrumb -->
 <div class="validtheme-shop-single-area default-padding">
     <div class="container">
         <div class="product-details">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="product-thumb">
-                        <img src="crop_images/maize-corn.jpeg" alt="Maize (Corn)" class="product-img-fixed">
+                        <img src="crop_images/⁠Fodder-Sorghum_Sudan_Grass.webp" alt="SSG (Sorghum Sudan Grass)" class="product-img-fixed">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="single-product-contents">
                         <div class="summary-top-box">
                             <div class="product-tags">
-                                <a href="#">Cereal Crop</a>
+                                <a href="#">Fodder Crop</a>
                             </div>
                             <div class="review-count">
                                 <div class="rating">
@@ -42,13 +39,13 @@
                                 </div>
                             </div>
                         </div>
-                        <h2 class="product-title">Maize (Corn)</h2>
+                        <h2 class="product-title">SSG (Sorghum Sudan Grass)</h2>
                         <div class="product-stock validthemes-in-stock">
                             <span>In Stock</span>
                         </div>
-                        <p>Maize is a versatile crop grown for food, fodder, and industrial use. It grows well in both kharif and rabi seasons with proper irrigation. Commercial farming also.</p>
+                        <p>Fast-growing: First cut in 45–50 days. Multi-cut: Up to 5–6 harvests in a season. High yield: 350–500 quintals/acre (green fodder). High nutrition: Rich in protein (8–12%), digestible, juicy. Good for silage, green feeding, or mixing with dry fodder.</p>
                         <div class="product-meta">
-                            <span class="sku"><strong>Category :</strong> Cereal Crop</span>
+                            <span class="sku"><strong>Category :</strong> Fodder Crop</span>
                         </div>
                     </div>
                 </div>
@@ -63,16 +60,14 @@
                     </div>
                     <div class="tab-content tab-content-info" id="myTabContent">
                         <div class="tab-pane fade show active" id="description-tab" role="tabpanel" aria-labelledby="description-tab-control">
-                            <p>Maize is a versatile crop grown for food, fodder, and industrial use. It grows well in both kharif and rabi seasons with proper irrigation. Commercial farming also.</p>
+                            <p>Fast-growing: First cut in 45–50 days. Multi-cut: Up to 5–6 harvests in a season. High yield: 350–500 quintals/acre (green fodder). High nutrition: Rich in protein (8–12%), digestible, juicy. Good for silage, green feeding, or mixing with dry fodder.</p>
                         </div>
                         <div class="tab-pane fade" id="information-tab" role="tabpanel" aria-labelledby="information-tab-control">
                             <div class="table-responsive">
                                 <table class="table table-bordered">
                                     <tbody>
-                                        <tr><td>Sowing Time</td><td>Kharif (Monsoon): June–July<br>Rabi (with irrigation): November–December<br>Zaid (summer crop): Feb–March</td></tr>
-                                        <tr><td>Seed Per Acre</td><td>18–25 kg/acre (depending on hybrid and spacing)</td></tr>
-                                        <tr><td>Packing Size</td><td>1 Kg and 4 Kg</td></tr>
-                                        <tr><td>Spacing</td><td>60 cm row-to-row × 20 cm plant-to-plant</td></tr>
+                                        <tr><td>Sowing Season</td><td>Kharif (Main Season): June – July (with onset of monsoon)<br>Summer (Zaid): February – March (with irrigation)</td></tr>
+                                        <tr><td>Packing Size</td><td>Available in 5 kg</td></tr>
                                     </tbody>
                                 </table>
                             </div>
@@ -83,6 +78,7 @@
         </div>
     </div>
 </div>
+<?php include "includes/footer.php"; ?>
 <style>
 .product-img-fixed {
     width: 250px;
@@ -91,5 +87,4 @@
     display: block;
     margin: 0 auto;
 }
-</style>
--->
+</style> 
