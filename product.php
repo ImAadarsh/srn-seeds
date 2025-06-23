@@ -19,6 +19,19 @@
     </div>
 </div>
 <!-- End Breadcrumb -->
+
+<!-- Category Links -->
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-4 mb-3">
+            <a href="shop.php#cereal-crops" class="btn btn-primary btn-lg w-100">Cereal Crops</a>
+        </div>
+        <div class="col-md-4 mb-3">
+            <a href="shop.php#fodder-crops" class="btn btn-success btn-lg w-100">Fodder Crops</a>
+        </div>
+    </div>
+</div>
+
 <!-- <?php ?> -->
 <!-- Start Footer 
     ============================================= -->

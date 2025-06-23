@@ -92,12 +92,12 @@
                             <li class="dropdown">
                                 <a href="product.php" data-toggle="dropdown" class="dropdown-toggle">Products <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="product.php"">Cereal crops</a></li>
-                                    <li><a href="product.php"">Fodder crops</a></li>
-                                    <li><a href="product.php"">Pulses crops</a></li>
-                                    <li><a href="product.php"">Vegetable & fruit crops</a></li>
-                                    <li><a href="product.php"">Kitchen garden products</a></li>
-                                    <li><a href="product.php"">Flower seeds</a></li>
+                                    <li><a href="shop.php"">Cereal crops</a></li>
+                                    <li><a href="shop.php"">Fodder crops</a></li>
+                                    <li><a href="shop.php"">Pulses crops</a></li>
+                                    <li><a href="shop.php"">Vegetable & fruit crops</a></li>
+                                    <li><a href="shop.php"">Kitchen garden products</a></li>
+                                    <li><a href="shop.php"">Flower seeds</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
