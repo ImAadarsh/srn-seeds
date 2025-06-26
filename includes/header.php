@@ -29,6 +29,48 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/unit-test.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
+    <style>
+
+.whatsapp-button{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 99;
+    background-color: #25d366;
+    border-radius: 50px;
+    color: #ffffff;
+    text-decoration: none;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-shadow: 0px 0px 25px -6px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 25px -6px rgba(0,0,0,1);
+    box-shadow: 0px 0px 25px -6px rgba(0,0,0,1);
+    animation: effect 5s infinite ease-in;
+}
+
+@keyframes effect {
+    20%, 100% {
+        width: 50px;
+        height: 50px;
+        font-size: 30px;
+    }
+    0%, 10%{
+        width: 55px;
+        height: 55px;
+        font-size: 35px;
+    }
+    5%{
+        width: 50px;
+        height: 50px;
+        font-size: 30px;
+    }
+}
+    </style>
 
 </head>
 
@@ -87,7 +129,6 @@
                         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                             <li class="dropdown">
                                 <a href="index.php" data-toggle="dropdown">Home</a>
-
                             </li>
                             <li class="dropdown">
                                 <a href="product.php" data-toggle="dropdown" class="dropdown-toggle">Products <span class="caret"></span></a>
@@ -95,22 +136,23 @@
                                     <li><a href="shop.php"">Cereal crops</a></li>
                                     <li><a href="shop.php"">Fodder crops</a></li>
                                     <li><a href="shop.php"">Pulses crops</a></li>
+                                    <li><a href="shop.php"">Oil Seeds crops</a></li>
                                     <li><a href="shop.php"">Vegetable & fruit crops</a></li>
                                     <li><a href="shop.php"">Kitchen garden products</a></li>
                                     <li><a href="shop.php"">Flower seeds</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
+                                <a href="download-brochure.php" data-toggle="dropdown">Download Brochure</a>
+                            </li>
+                            <li class="dropdown">
                                 <a href="about-us.php" data-toggle="dropdown">About Us</a>
-
                             </li>
                             <li class="dropdown">
                                 <a href="faq.php" data-toggle="dropdown">FAQ's</a>
-
                             </li>
                             <li class="dropdown">
                                 <a href="contact-us.php" data-toggle="dropdown">Contact Us</a>
-
                             </li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
@@ -148,3 +190,4 @@
         <!-- End Navigation -->
     </header>
     <!-- End Header -->
+    <a target="_blank" href="https://wa.me/919928024428?text='Hi I have a query regarding the SRN Seeds Products.'" class="whatsapp-button"><i class="fab fa-whatsapp"></i></a>

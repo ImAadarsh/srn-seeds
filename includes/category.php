@@ -72,6 +72,20 @@
                                 </a>
                             </div>
                         </div>
+                                                <!-- Single Item: Oil seeds crops -->
+                        <div class="swiper-slide">
+                            <div class="services-style-one">
+                                <a href="#">
+                                    <div class="thumb">
+                                        <img src="assets/img/thumb/oil_seeds.png" alt="Oil Seeds Crops">
+                                    </div>
+                                    <h5>Oil Seeds crops</h5>
+                                    <p>
+                                        Premium seeds for sunflower, mustard, soybean, and other oil-rich crops—supporting healthy oil production and enhancing crop diversity for farmers.
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
                         <!-- Single Item: Vegetable & fruit crops -->
                         <div class="swiper-slide">
                             <div class="services-style-one">

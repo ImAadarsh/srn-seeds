@@ -73,6 +73,9 @@
                                 <div class="content">
                                     <strong>Email:</strong>
                                     <a href="mailto:info@srnseeds.com">info@srnseeds.com</a>
+                                    <br>
+                                    <a href="mailto:srnseeds@gmail.com">srnseeds@gmail.com </a>
+                                    
                                 </div>
                             </li>
                             <li>
@@ -81,7 +84,8 @@
                                 </div>
                                 <div class="content">
                                     <strong>Phone:</strong>
-                                    <a href="tel:9928024480">+91 9928024480</a>
+                                    <a href="tel:9928024428">+91 9928024428 </a> <br>
+                                    <a href="tel:9119166751">+91 9119166751</a> 
                                 </div>
                             </li>
                         </ul>

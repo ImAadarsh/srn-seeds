@@ -247,6 +247,32 @@
                                             </div>
                                         </div>
                                         <div class="price">
+                                            <span>Available in 100 Gm</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- Mustard Seeds -->
+                            <li class="product">
+                                <div class="product-contents">
+                                    <div class="product-image">
+                                        <a href="shop-single-mustard-seeds.php"><img src="crop_images/Mustard_seeds-1.jpeg" alt="Mustard Seeds" class="product-img-fixed"></a>
+                                    </div>
+                                    <div class="product-caption">
+                                        <div class="product-tags">
+                                            <a href="#">Oilseed Crop</a>
+                                        </div>
+                                        <h4 class="product-title"><a href="shop-single-mustard-seeds.php">Mustard Seeds</a></h4>
+                                        <div class="review-count">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                        <div class="price">
                                             <span>Available in 1 Kg</span>
                                         </div>
                                     </div>
