@@ -1,146 +1,193 @@
-Cereal crops (Arrow) 
-1.⁠ ⁠Maize (Corn)
-2.⁠ ⁠⁠Pearl Millet (Bajra)Maize (Inside)
-Maize is a versatile crop grown for food, fodder, and industrial use. It grows well in both kharif and rabi seasons with proper irrigation. Commercial farming also. 
+Pulses crop. : 
+1.⁠ ⁠Green gram (Moong) - 
+Green gram” (also known as Moong, Vigna radiata) is a widely cultivated pulse crop in India, known for its short duration, soil-enriching properties, and high protein content. 
+Crop Duration- 60–75 days
+
+Growing Seasons - 
+Kharif, Summer, and Rabi (in South India)
+
+Climate - 
+Hot, dry to moderate humid
+
+Soil - 
+Well-drained loamy to sandy loam soils with pH 6.2–7.2
+
+Seed Rate - 
+12–15 kg/ha (line sowing)
+
+Spacing - 
+30 cm × 10 cm (row × plant)
+Available in 1 KG
+
+
+Pulses crop : 
+2.⁠ ⁠Black gram (Urad) - 
+Black gram, also known as urad or urad bean, is an important pulse crop, particularly in India, where it's a staple in many dishes. It's a good source of protein, fiber, and various minerals, and it's known for its ability to fix nitrogen in the soil. Black gram can be consumed whole, split, or ground into flour, and is used in various culinary preparations, including the popular Indian dish, dal. 
+
+Crop Duration: ~70–90 days
+	•	Growing Seasons: Kharif, Summer, Rabi (South India)
+	•	Soil: Well-drained loamy to clay soils, pH 6–7.5
+	•	Climate: Warm, moderately humid; tolerates drought
+
+	•	Seed Rate: 18–20 kg/ha
+	•	Spacing: 30 cm × 10 cm
+	•	Fertilizer: 20:40:20 NPK + 10 tons FYM/ha
+	•	Watering: 1–3 irrigations needed in summer; mostly rainfed in Kharif
+
+Available in 1 KG
+
+
+
+Vegetable crop : 
+1.⁠ ⁠Spinach (Palak) 
+Common Name
+Spinach / Palak
+Botanical Name
+Spinacia oleracea
+Family
+Amaranthaceae
+Type
+Leafy vegetable (cool-season)
+Crop Duration
+30–50 days (short duration)
+Growing Seasons
+Rabi (main), also in Summer & mild Kharif
+Soil
+Loamy, fertile soil with pH 6.0–7.5
+Climate
+Cool, tolerates light frost; prefers 15–25°C
+Seed Rate
+20–25 kg/ha
+Spacing
+Row: 20–25 cm, Plant: 5–10 cm
+
+Vegetable crop : 
+2.⁠ ⁠Coriander (Dhaniya) - 
+Common Name
+Coriander / Dhaniya
+Botanical Name
+Coriandrum sativum
+Family
+Apiaceae (Umbelliferae)
+Crop Type
+Dual-purpose: Green leaves & Dry seeds
+Crop Duration
+90–110 days (for seed harvest)
+Climate
+Cool, dry season (15–30°C), frost-sensitive
+Soil
+Well-drained loamy soil, pH 6–7
+Seed Rate
+10–15 kg/ha (split seed)
+Spacing
+30 cm × 10 cm (row × plant)
+
+Seed Preparation
+	•	Split the seeds before sowing (called “dalia” form)
+	•	Soak in water overnight for quicker germination
+	•	Seed Treatment: Trichoderma or Thiram @ 2 g/kg
+
+
+BENEFITS
+	•	Highly profitable cash crop
+	•	Used as a spice (seeds) and herb (leaves)
+	•	Improves digestion; rich in antioxidants
+	•	Easy to grow in kitchen gardens, farms, and organically
+Available in 500 GM
+
+Vegetable crop : 
+3.⁠ ⁠Onion (Desi Gavran) -
+
+Common Name
+Onion / Kanda / Pyaz
+Local Name
+Desi Gavran Onion
+Botanical Name
+Allium cepa
+Family
+Amaryllidaceae
+Crop Duration
+90–130 days (for bulb), 180–220 days (for seed)
+Climate
+Cool to moderate (12–25°C); requires dry harvest period
+Soil
+Sandy loam, well-drained, pH 6.0–7.5
+Seed Rate
+8–10 kg/ha for bulbs; 10–12 kg/ha for seed production
+Spacing
+15 cm × 10 cm (row × plant)
+
+FEATURES
+	•	Local variety, well-adapted to Indian climate
+	•	Small to medium-sized, strong-flavored bulbs
+	•	Stores well after harvesting
+	•	Suitable for rainfed and low-input conditions
+
+HARVESTING & YIELD
+	•	Bulb Harvest: 100–130 days (tops fall over, neck softens)
+	•	Seed Crop: 180–220 days
+	•	Curing: Dry bulbs in shade for 7–10 days before storage
+	•	Yield:
+	•	Bulbs: 150–250 quintals/ha
+	•	Seeds: 8–10 quintals/ha (if producing seeds)
+Available in 500 GM
+
+Vegetable crop : 
+4.⁠ ⁠Onion (N-53) - 
+
+SPECIAL FEATURES OF N-53
+	•	High-yielding red onion
+	•	Suitable for Rabi season
+	•	Uniform bulbs with good market value
+	•	Grows well in Punjab, Rajasthan, Maharashtra, MP, Gujarat, etc.
+
+Type
+Short-day, Rabi variety
+Bulb Color
+Shiny dark red, globe-shaped
+Maturity
+~110–120 days (from transplanting)
+Shelf Life
+Moderate (not very long-storing)
+Use
+Mainly for fresh market, not for long storage
+
 Sowing Time
-	•	Kharif (Monsoon): June–July
-	•	Rabi (with irrigation): November–December
-	•	Zaid (summer crop): Feb–March
+Nursery: October–November
 
-Seed Rate & Spacing
-	•	Seed rate: 18–25 kg/acre (depending on hybrid and spacing)
-	•	Spacing: 60 cm row-to-row × 20 cm plant-to-plant
-    Available in 1 Kg and 4 Kg
+| Soil        | Sandy loam to clay loam, well-drained, pH 6–7.5 |
+| Climate     | Cool vegetative phase, dry bulb formation phase |
+| Seed Rate   | 8–10 kg/ha (for transplanting) |
 
-Pearl millet (Bajra) - 
-Bajra is a highly drought-tolerant cereal crop, ideal for dryland and semi-arid areas. It is used for grain, fodder, and is rich in iron and fiber.
-
-Sowing Season
-	•	Kharif (Main season): June–July (with first rains)
-	•	Rabi: Only in southern India or irrigated pockets
-
-Seed Rate & Spacing
-	•	Seed Rate: 3–4 kg/acre (for hybrid)
-	•	Spacing: 45 cm × 15 cm (row × plant)
+Transplanting
+	•	Spacing: 15 cm row × 10 cm plant
+	•	Shallow transplanting ensures proper bulb development
+Available in 500 GM
 
 
-Water & Climate Needs
-	•	Grows well in low rainfall (250–500 mm annually)
-	•	Does well in light soils (sandy loam to loam)
-	•	Needs 1–2 irrigations only (if rain fails)
-    Available in 1.5 Kg
+Pulses crop : 
+3.⁠ ⁠Research guar - 
 
-Fodder crops - 
+Guar is an annual legume mainly grown for its seeds, which contain guar gum — a valuable thickening, stabilizing, and emulsifying agent used in various industries.
 
-1.⁠ ⁠SSG (Sorghum Sudan Grass) 
-	•	Fast-growing: First cut in 45–50 days
-	•	Multi-cut: Up to 5–6 harvests in a season
-	•	High yield: 350–500 quintals/acre (green fodder)
-	•	High nutrition: Rich in protein (8–12%), digestible, juicy
-	•	Good for silage, green feeding, or mixing with dry fodder
+	•	Origin: India and Pakistan (semi-arid regions)
+	•	Top Producers:
+	•	India (80% of global production, especially in Rajasthan, Haryana, Gujarat)
+	•	Pakistan
+	•	USA (Texas, Oklahoma, New Mexico to a smaller extent)
+	•	Climate: Hot and dry, thrives in arid to semi-arid regions
+	•	Soil: Sandy loam, well-drained soils
+	•	Growing Season:
+	•	Kharif crop in India (June–October)
+	•	Irrigation: Mostly rain-fed, but some regions use supplemental irrigation
 
-Sowing Season
-	•	Kharif (Main Season): June – July (with onset of monsoon)
-	•	Summer (Zaid): February – March (with irrigation)
-    Available in 5 kg
+•⁠  ⁠Sowing Time: June–July (monsoon onset)
+	•	Maturity: 90–120 days
+	•	Spacing: 30–45 cm between rows
+	•	Yield:
+	•	Seed yield: 500–1000 kg/ha
+	•	Guar gum yield: ~30–33% of the seed
 
-Fodder crops 
-2.⁠ ⁠Multicut Fodder Rajka Bajri 
-	•	Multicut fodder hybrid variety of bajra (pearl millet)
-	•	Tolerates drought and heat – ideal for Rajasthan
-	•	Produces 3–5 cuts in one season
-	•	Soft, juicy leaves and stems – highly palatable
-	•	Rich in crude protein (9–11%) and digestibility
-
-First Cut
-45–50 days after sowing
-Regrowth Interval
-30–35 days between cuts
-Suitable Regions
-Rajasthan, Haryana, Gujarat, UP
-
-Sowing Season
-	•	Kharif (main season): June–July
-	•	Summer (with irrigation): Feb–March
-
-⸻
-
-Seed Rate & Spacing
-	•	Seed Rate: 5–6 kg/acre
-	•	Spacing: 30–40 cm row-to-row × 10–15 cm plant-to-plant
-    Available in 1 KG
-
-Fodder crop - 
-
-Lucerne (Rajka grass) : 
-Rajka seeds are used to grow rajka grass, also known as Alfalfa or Lucerne , which is one of the most nutritious and high-yielding fodder crops for livestock.
-Use: Primarily fodder for cattle, goats, and other livestock
-	•	Nutritional Value: High in protein (18–22%), calcium, and vitamins
-	•	Root System: Deep-rooted – drought-tolerant once established
-
-Key Features
-	•	Can be cut 8–10 times per year under proper management
-	•	Improves soil fertility by fixing nitrogen
-	•	Suitable for loamy, well-drained soils
-	•	Best grown in areas with mild winters and hot summers
-
-⸻
-
-Sowing Details
-	•	Best Sowing Time:
-	•	October to February in North India
-	•	Post-monsoon in other regions
-
-Seed Rate:
-	•	8–10 kg/acre (broadcasting)
-	•	Use treated seeds to avoid fungal diseases
-	•	Spacing: 25–30 cm between rows
-	•	Irrigation: First irrigation right after sowing, then weekly
-    Available in 1 Kg
-
-Fodder crop - 
-Chicory (Kasni fodder) 
-Kasni fodder seeds are from a special variety of Cichorium intybus (chicory) selected for forage use, not medicinal or culinary. When grown as fodder, Kasni provides a nutritious, high-protein green feed—especially useful for dairy cattle, goats, and sheep.
-Key Benefits
-	•	High protein: ~18–22% (comparable to Lucerne)
-	•	Rich in minerals, especially calcium and magnesium
-	•	Promotes better milk yield and animal digestion
-	•	Natural anthelmintic (helps reduce internal parasites in livestock)
-	•	Can be grazed or harvested for green fodder
-
-Best Sowing Time
-August–October or early spring
-Seed Rate
-3–5 kg/acre
-Soil Requirement
-Well-drained, light loamy or sandy soil
-Irrigation
-Moderate (drought-tolerant once grown)
-Cuttings per Year
-4–5 cuttings/year under good care
-
-Fodder crop - 
-
-Hybrid Chicory (hybrid Kasni fodder) - 
-Hybrid chicory seeds refer to improved or selectively bred varieties of Cichorium intybus developed specifically for fodder (forage), leaf yield, and digestibility—not for medicinal or root harvest.
-
-These hybrids are ideal for high-protein livestock feed, offering faster growth, better disease resistance, and often higher dry matter yield than traditional Kasni (desi chicory) varieties.
-Primary Use
-Livestock fodder (cut-and-carry or grazing)
-Growth Habit
-Rosette-forming, leafy with broad taproot
-Protein Content
-18–22% crude protein
-Tolerances
-Drought-tolerant, heat-tolerant (mild), and pest-resistant
-Best Sowing Time
-August–October or February–March
-Seed Rate
-3–5 kg/acre
-Sowing Method
-Broadcasting or line sowing (30 cm spacing)
-Irrigation
-Every 10–15 days in dry periods
-Harvesting
-First cut ~60–70 days after sowing, then every 30–45 days
-
+ Soil Enrichment
+	•	Being a legume, it fixes atmospheric nitrogen, improving soil fertility.
+Available in 5 KG bag

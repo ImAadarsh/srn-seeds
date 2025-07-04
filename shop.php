@@ -278,6 +278,188 @@
                                     </div>
                                 </div>
                             </li>
+                            <!-- Green gram (Moong) -->
+                            <li class="product">
+                                <div class="product-contents">
+                                    <div class="product-image">
+                                        <a href="shop-single-green-gram-moong.php"><img src="crop_images/Pulses_crop_Green_gram(Moong).jpeg" alt="Green gram (Moong)" class="product-img-fixed"></a>
+                                    </div>
+                                    <div class="product-caption">
+                                        <div class="product-tags">
+                                            <a href="#">Pulse Crop</a>
+                                        </div>
+                                        <h4 class="product-title"><a href="shop-single-green-gram-moong.php">Green gram (Moong)</a></h4>
+                                        <div class="review-count">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                        <div class="price">
+                                            <span>Available in 1 Kg</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- Black gram (Urad) -->
+                            <li class="product">
+                                <div class="product-contents">
+                                    <div class="product-image">
+                                        <a href="shop-single-black-gram-urad.php"><img src="crop_images/Pulses_crop_⁠Black_gram_(Urad) .jpeg" alt="Black gram (Urad)" class="product-img-fixed"></a>
+                                    </div>
+                                    <div class="product-caption">
+                                        <div class="product-tags">
+                                            <a href="#">Pulse Crop</a>
+                                        </div>
+                                        <h4 class="product-title"><a href="shop-single-black-gram-urad.php">Black gram (Urad)</a></h4>
+                                        <div class="review-count">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                        <div class="price">
+                                            <span>Available in 1 Kg</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- Spinach (Palak) -->
+                            <li class="product">
+                                <div class="product-contents">
+                                    <div class="product-image">
+                                        <a href="shop-single-spinach-palak.php"><img src="crop_images/Vegetable_crop_Spinach(Palak).jpeg" alt="Spinach (Palak)" class="product-img-fixed"></a>
+                                    </div>
+                                    <div class="product-caption">
+                                        <div class="product-tags">
+                                            <a href="#">Vegetable Crop</a>
+                                        </div>
+                                        <h4 class="product-title"><a href="shop-single-spinach-palak.php">Spinach (Palak)</a></h4>
+                                        <div class="review-count">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                        <div class="price">
+                                            <span>Available in 1 Kg</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- Coriander (Dhaniya) -->
+                            <li class="product">
+                                <div class="product-contents">
+                                    <div class="product-image">
+                                        <a href="shop-single-coriander-dhaniya.php"><img src="crop_images/⁠Coriander.jpeg" alt="Coriander (Dhaniya)" class="product-img-fixed"></a>
+                                    </div>
+                                    <div class="product-caption">
+                                        <div class="product-tags">
+                                            <a href="#">Vegetable Crop</a>
+                                        </div>
+                                        <h4 class="product-title"><a href="shop-single-coriander-dhaniya.php">Coriander (Dhaniya)</a></h4>
+                                        <div class="review-count">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                        <div class="price">
+                                            <span>Available in 500 GM</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- Onion (Desi Gavran) -->
+                            <li class="product">
+                                <div class="product-contents">
+                                    <div class="product-image">
+                                        <a href="shop-single-onion-desi-gavran.php"><img src="crop_images/Onion.jpeg" alt="Onion (Desi Gavran)" class="product-img-fixed"></a>
+                                    </div>
+                                    <div class="product-caption">
+                                        <div class="product-tags">
+                                            <a href="#">Vegetable Crop</a>
+                                        </div>
+                                        <h4 class="product-title"><a href="shop-single-onion-desi-gavran.php">Onion (Desi Gavran)</a></h4>
+                                        <div class="review-count">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                        <div class="price">
+                                            <span>Available in 500 GM</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- Onion (N-53) -->
+                            <li class="product">
+                                <div class="product-contents">
+                                    <div class="product-image">
+                                        <a href="shop-single-onion-n53.php"><img src="crop_images/⁠Onion(N-53).jpeg" alt="Onion (N-53)" class="product-img-fixed"></a>
+                                    </div>
+                                    <div class="product-caption">
+                                        <div class="product-tags">
+                                            <a href="#">Vegetable Crop</a>
+                                        </div>
+                                        <h4 class="product-title"><a href="shop-single-onion-n53.php">Onion (N-53)</a></h4>
+                                        <div class="review-count">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                        <div class="price">
+                                            <span>Available in 500 GM</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- Research guar -->
+                            <li class="product">
+                                <div class="product-contents">
+                                    <div class="product-image">
+                                        <a href="shop-single-research-guar.php"><img src="crop_images/⁠Research_guar_1.jpeg" alt="Research guar" class="product-img-fixed"></a>
+                                    </div>
+                                    <div class="product-caption">
+                                        <div class="product-tags">
+                                            <a href="#">Pulse Crop</a>
+                                        </div>
+                                        <h4 class="product-title"><a href="shop-single-research-guar.php">Research guar</a></h4>
+                                        <div class="review-count">
+                                            <div class="rating">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </div>
+                                        </div>
+                                        <div class="price">
+                                            <span>Available in 5 Kg bag</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </div>
                     <!-- End Product Grid View (Hardcoded) -->
