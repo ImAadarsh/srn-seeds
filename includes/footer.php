@@ -33,7 +33,7 @@
                                 <a href="contact-us.php">Contact Us</a>
                             </li>
                             <li>
-                                <a href="products.php">Products</a>
+                                <a href="shop.php">Products</a>
                             </li>
                             <li>
                                 <a href="faq.php">FAQ's</a>

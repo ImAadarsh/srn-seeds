@@ -61,7 +61,7 @@
                         <!-- Single Item: Pulses crops -->
                         <div class="swiper-slide">
                             <div class="services-style-one">
-                                <a href="#">
+                                <a href="shop.php?category=pulses">
                                     <div class="thumb">
                                         <img src="assets/img/thumb/pulses.png" alt="Pulses Crops">
                                     </div>
@@ -75,7 +75,7 @@
                                                 <!-- Single Item: Oil seeds crops -->
                         <div class="swiper-slide">
                             <div class="services-style-one">
-                                <a href="#">
+                                <a href="shop.php?category=oilseeds">
                                     <div class="thumb">
                                         <img src="assets/img/thumb/oil_seeds.png" alt="Oil Seeds Crops">
                                     </div>
@@ -89,7 +89,7 @@
                         <!-- Single Item: Vegetable & fruit crops -->
                         <div class="swiper-slide">
                             <div class="services-style-one">
-                                <a href="#">
+                                <a href="shop.php?category=vegetable">
                                     <div class="thumb">
                                         <img src="assets/img/thumb/vegetable.png" alt="Vegetable & Fruit Crops">
                                     </div>
@@ -103,7 +103,7 @@
                         <!-- Single Item: Kitchen garden products -->
                         <div class="swiper-slide">
                             <div class="services-style-one">
-                                <a href="#">
+                                <a href="shop.php?category=kitchen">
                                     <div class="thumb">
                                         <img src="assets/img/thumb/kitchen.png" alt="Kitchen Garden Products">
                                     </div>
