@@ -17,7 +17,7 @@
         <div class="col-lg-8 text-center">
             <h2>SRN Seeds Product Brochure</h2>
             <p>Download our latest brochure to explore our full range of high-quality seeds and agricultural products. Get detailed information on varieties, benefits, and growing tips.</p>
-            <a href="assets/brochure/SRN-Seeds-Brochure.pdf" class="btn btn-theme btn-lg mt-4" download>Download Brochure (PDF)</a>
+            <a href="SRN_SEEDS_2025.pdf" class="btn btn-theme btn-lg mt-4" download>Download Brochure (PDF)</a>
         </div>
     </div>
 </div>
