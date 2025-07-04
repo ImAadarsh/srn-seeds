@@ -133,13 +133,13 @@
                             <li class="dropdown">
                                 <a href="product.php" data-toggle="dropdown" class="dropdown-toggle">Products <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="shop.php"">Cereal crops</a></li>
-                                    <li><a href="shop.php"">Fodder crops</a></li>
-                                    <li><a href="shop.php"">Pulses crops</a></li>
-                                    <li><a href="shop.php"">Oil Seeds crops</a></li>
-                                    <li><a href="shop.php"">Vegetable & fruit crops</a></li>
-                                    <li><a href="shop.php"">Kitchen garden products</a></li>
-                                    <li><a href="shop.php"">Flower seeds</a></li>
+                                    <li><a href="shop.php?category=cereal">Cereal crops</a></li>
+                                    <li><a href="shop.php?category=fodder">Fodder crops</a></li>
+                                    <li><a href="shop.php?category=pulses">Pulses crops</a></li>
+                                    <li><a href="shop.php?category=oilseeds">Oil Seeds crops</a></li>
+                                    <li><a href="shop.php?category=vegetable">Vegetable & fruit crops</a></li>
+                                    <li><a href="shop.php?category=kitchen">Kitchen garden products</a></li>
+                                    <li><a href="shop.php?category=flower">Flower seeds</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
