@@ -131,6 +131,9 @@
                                 <a href="index.php" data-toggle="dropdown">Home</a>
                             </li>
                             <li class="dropdown">
+                                <a href="about-us.php" data-toggle="dropdown">About Us</a>
+                            </li>
+                            <li class="dropdown">
                                 <a href="product.php" data-toggle="dropdown" class="dropdown-toggle">Products <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="shop.php?category=cereal">Cereal crops</a></li>
@@ -144,9 +147,6 @@
                             </li>
                             <li class="dropdown">
                                 <a href="download-brochure.php" data-toggle="dropdown">Download Brochure</a>
-                            </li>
-                            <li class="dropdown">
-                                <a href="about-us.php" data-toggle="dropdown">About Us</a>
                             </li>
                             <li class="dropdown">
                                 <a href="faq.php" data-toggle="dropdown">FAQ's</a>

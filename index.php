@@ -93,71 +93,7 @@
 
 <?php include 'includes/know-us.php' ?>
 <?php include 'includes/testmonial.php' ?>
-<!-- Start Gallery 
-    ============================================= -->
-<div class="gallery-style-one-area default-padding-top">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2">
-                <div class="site-heading text-center">
-                    <h5 class="sub-title">Awesome Gallery</h5>
-                    <h2 class="title">Gallery Of Our Products</h2>
-                    <div class="devider"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container container-stage">
-        <div class="row">
-            <div class="col-xl-12">
-                <div class="carousel-stage-right carousel-style-one swiper">
-                    <!-- Additional required wrapper -->
-                    <div class="swiper-wrapper">
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="gallery-style-one">
-                                <img src="assets/img/p/1.png" alt="Thumb">
-                                <div class="overlay">
-                                    <span>Seeds</span>
-                                    <h4><a href="#">HALDHAR</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="gallery-style-one">
-                                <img src="assets/img/p/2.png" alt="Thumb">
-                                <div class="overlay">
-                                    <span>Seeds</span>
-                                    <h4><a href="#">Virat - 509</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="gallery-style-one">
-                                <img src="assets/img/p/3.png" alt="Thumb">
-                                <div class="overlay">
-                                    <span>Seeds</span>
-                                    <h4><a href="#">Harit Amrit</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-
-                    </div>
-
-                    <!-- Pagination -->
-                    <div class="swiper-pagination"></div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Gallery -->
+<?php include 'includes/gallery.php' ?>
 
 <!-- Start Fun Factor Area
     ============================================= -->

@@ -38,8 +38,14 @@
                             <li>
                                 <a href="faq.php">FAQ's</a>
                             </li>
-
                         </ul>
+                        <div class="footer-social-section mt-4">
+                            <h5 class="mb-2">Follow Us</h5>
+                            <div class="footer-social-icons">
+                                <a href="https://www.facebook.com/share/1Ae34wyYME/?mibextid=wwXIfr" target="_blank" rel="noopener" title="Facebook" class="footer-social-circle facebook"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/srnseedsllp?igsh=NGo2ejJtcWtueG0z" target="_blank" rel="noopener" title="Instagram" class="footer-social-circle instagram"><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!-- End Single Itme -->

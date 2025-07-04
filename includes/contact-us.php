@@ -107,6 +107,13 @@
                             </div>
                         </li>
                     </ul>
+                    <div class="contact-social-section mt-4">
+                        <h5 class="mb-2">Follow Us</h5>
+                        <div class="contact-social-icons">
+                            <a href="https://www.facebook.com/share/1Ae34wyYME/?mibextid=wwXIfr" target="_blank" rel="noopener" title="Facebook" class="contact-social-circle facebook"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/srnseedsllp?igsh=NGo2ejJtcWtueG0z" target="_blank" rel="noopener" title="Instagram" class="contact-social-circle instagram"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -114,3 +121,37 @@
     </div>
 </div>
 <!-- End Contact -->
+<style>
+.contact-social-section {
+    text-align: left;
+}
+.contact-social-icons {
+    display: flex;
+    gap: 16px;
+    margin-top: 8px;
+}
+.contact-social-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    font-size: 22px;
+    color: #fff;
+    background: #333;
+    transition: background 0.2s, color 0.2s, transform 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.contact-social-circle.facebook {
+    background: #3b5998;
+}
+.contact-social-circle.instagram {
+    background: radial-gradient(circle at 30% 110%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+.contact-social-circle:hover {
+    transform: scale(1.1);
+    color: #fff;
+    text-decoration: none;
+}
+</style>
