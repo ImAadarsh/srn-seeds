@@ -81,7 +81,8 @@
                             </div>
                             <div class="content">
                                 <h5 class="title">Hotline</h5>
-                                <a href="">+91 9928024480</a>
+                                <a href="tel:9928024428">+91 9928024428</a><br>
+                                <a href="tel:9119166751">+91 9119166751</a>
                             </div>
                         </li>
                         <li class="wow fadeInUp" data-wow-delay="300ms">
@@ -91,8 +92,7 @@
                             <div class="info">
                                 <h5 class="title">Our Location</h5>
                                 <p>
-                                    A-129 (M), Road No 9C, , Vishwakarma Industrial Area (VKI Area), <br> Jaipur,
-                                    Rajasthan- 302013
+                                    A-129 (M), Road No 9C, Vishwakarma Industrial Area (VKI Area), <br> Jaipur, Rajasthan- 302013
                                 </p>
                             </div>
                         </li>
@@ -102,7 +102,8 @@
                             </div>
                             <div class="info">
                                 <h5 class="title">Official Email</h5>
-                                <a href="mailto:info@srnseeds.com.com">info@srnseeds.com</a>
+                                <a href="mailto:info@srnseeds.com">info@srnseeds.com</a><br>
+                                <a href="mailto:srnseeds@gmail.com">srnseeds@gmail.com</a>
                             </div>
                         </li>
                     </ul>
