@@ -19,6 +19,5 @@
     </div>
 </div>
 
-    ============================================= -->
 <?php include 'includes/contact-us.php'; ?>
 <?php include 'includes/footer.php'; ?>
