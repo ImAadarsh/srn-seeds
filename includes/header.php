@@ -164,7 +164,7 @@
                                 <li class="contact">
                                     <div class="call">
                                         <div class="icon">
-                                            <i class="fas fa-comments-alt-dollar"></i>
+                                            <i class="fas fa-comments"></i>
                                         </div>
                                         <div class="info">
                                             <p>Have any Questions?</p>

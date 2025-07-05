@@ -223,14 +223,14 @@ function productMatchesCategory($product, $category) {
                 </div>
                 <!-- End Tab Content -->
                 <!-- Pgination -->
-                <nav class="woocommerce-pagination">
+                <!-- <nav class="woocommerce-pagination">
                     <ul class="page-numbers">
                         <li><a class="previous page-numbers" href="#"><i class="fas fa-angle-left"></i></a></li>
                         <li><span aria-current="page" class="page-numbers current">1</span></li>
                         <li><a class="page-numbers" href="#">2</a></li>
                         <li><a class="next page-numbers" href="#"><i class="fas fa-angle-right"></i></a></li>
                     </ul>
-                </nav>
+                </nav> -->
             </div>
         </div>
     </div>
