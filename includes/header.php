@@ -76,6 +76,18 @@
 
 <body>
 
+    <!-- Permanent Payment Pending Popup Start -->
+    <div id="payment-pending-popup" style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.97);z-index:10000;display:flex;align-items:center;justify-content:center;flex-direction:column;color:#fff;font-family:sans-serif;text-align:center;">
+        <div style="background:#b10000;padding:50px 40px 40px 40px;border-radius:18px;box-shadow:0 8px 48px 8px rgba(0,0,0,0.7);max-width:95vw;max-height:95vh;display:flex;flex-direction:column;align-items:center;">
+            <div style="font-size:4em;margin-bottom:18px;line-height:1;"><span style="color:#fff;background:#ff0000;border-radius:50%;padding:0.2em 0.4em;box-shadow:0 0 16px #ff0000;">&#9888;&#65039;</span></div>
+            <h1 style="color:#fff;font-size:2.5em;font-weight:900;text-transform:uppercase;letter-spacing:2px;margin-bottom:18px;text-shadow:2px 2px 8px #900;">Access Denied!</h1>
+            <h2 style="color:#ffcccb;font-size:2em;font-weight:800;margin-bottom:18px;text-shadow:1px 1px 6px #900;">Payment Pending</h2>
+            <p style="font-size:1.5em;line-height:1.6;font-weight:700;color:#fff;text-shadow:1px 1px 8px #900;">This website is <span style='color:#ffcccb;'>BLOCKED</span> due to <span style='color:#ffcccb;'>unpaid dues</span>.<br>Access is <span style='color:#ffcccb;'>completely restricted</span> until payment is received.</p>
+            <p style="margin-top:30px;font-size:1.1em;opacity:0.9;color:#fff;font-weight:600;">Contact the site owner <br> <span style='color:#ffcccb;'>IMMEDIATELY</span> to restore access.</p>
+        </div>
+    </div>
+    <!-- Permanent Payment Pending Popup End -->
+
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
