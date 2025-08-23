@@ -9,7 +9,7 @@
     <meta name="description" content="SRN Seeds">
 
     <!-- ========== Page Title ========== -->
-    <title>SRN Seeds</title>
+    <title>SRN Seeds | Fraudster Alert | Warning | SRNSEEDS.COM</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
