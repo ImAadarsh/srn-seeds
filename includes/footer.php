@@ -105,9 +105,10 @@
         <div class="footer-bottom">
             <div class="row">
                 <div class="col-lg-6">
-                    <p>&copy; Copyright <?php echo date('Y'); ?>. All Rights Reserved by <a href="https://endeavourdigital.in">Endeavour
-                            Digital</a></p>
+                    <p>&copy; Copyright <?php echo date('Y'); ?>. All Rights Reserved by <a href="https://srnseeds.com">Srn Seeds LLP
+                            </a></p>
                 </div>
+                
                 <div class="col-lg-6 text-end">
                     <ul>
                         <li>

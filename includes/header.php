@@ -76,17 +76,186 @@
 
 <body>
 
-    <!-- Permanent Payment Pending Popup Start -->
-    <div id="payment-pending-popup" style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.37);z-index:10000;display:flex;align-items:center;justify-content:center;flex-direction:column;color:#fff;font-family:sans-serif;text-align:center;">
-        <div style="background:#b10000;padding:50px 40px 40px 40px;border-radius:18px;box-shadow:0 8px 48px 8px rgba(0,0,0,0.7);max-width:95vw;max-height:95vh;display:flex;flex-direction:column;align-items:center;">
-            <div style="font-size:4em;margin-bottom:18px;line-height:1;"><span style="color:#fff;background:#ff0000;border-radius:50%;padding:0.2em 0.4em;box-shadow:0 0 16px #ff0000;">&#9888;&#65039;</span></div>
-            <h1 style="color:#fff;font-size:2.5em;font-weight:900;text-transform:uppercase;letter-spacing:2px;margin-bottom:18px;text-shadow:2px 2px 8px #900;">Access Denied!</h1>
-            <h2 style="color:#ffcccb;font-size:2em;font-weight:800;margin-bottom:18px;text-shadow:1px 1px 6px #900;">Payment Pending</h2>
-            <p style="font-size:1.5em;line-height:1.6;font-weight:700;color:#fff;text-shadow:1px 1px 8px #900;">This website is <span style='color:#ffcccb;'>BLOCKED</span> due to <span style='color:#ffcccb;'>unpaid dues</span>.<br>Access is <span style='color:#ffcccb;'>completely restricted</span> until payment is received.</p>
-            <p style="margin-top:30px;font-size:1.1em;opacity:0.9;color:#fff;font-weight:600;">Contact the site owner <br> <span style='color:#ffcccb;'>IMMEDIATELY</span> to restore access.</p>
+<!-- SRN Seeds Warning Popup Start -->
+<div id="srn-warning-popup" style="display:none;position:fixed;z-index:10000;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);align-items:center;justify-content:center;">
+    <div id="warning-popup-inner" style="background:#fff;padding:20px;border-radius:16px;box-shadow:0 8px 32px rgba(0,0,0,0.5);max-width:90%;width:500px;margin:10px;text-align:center;border:3px solid #ff0000;animation:blink 1s infinite;">
+        <span id="close-warning-popup" style="position:absolute;top:10px;right:15px;cursor:pointer;font-size:2em;color:#ff0000;font-weight:bold;">&times;</span>
+        
+        <h2 style="color:#ff0000;font-weight:bold;margin-bottom:20px;font-size:1.8em;">⚠️ WARNING / चेतावनी ⚠️</h2>
+        
+        <div style="margin-bottom:20px;">
+            <h3 style="color:#ff0000;font-weight:bold;font-size:1.4em;margin-bottom:15px;">SRN Seeds Fraudster Alert</h3>
+            <p style="color:#ff0000;font-weight:bold;font-size:1.2em;line-height:1.6;margin-bottom:10px;">
+                <strong>ENGLISH:</strong><br>
+                SRN Seeds is a FRAUDSTER company.<br>
+                Company is not giving my payment of ₹32,400.<br>
+                This is for Website Development and Hosting services.<br>
+                I'm chasing from last two months.<br>
+                Please CAUTION before doing any business with them.<br>
+                If you want to remove this warning, please clear the full amount of invoice.
+            </p>
+        </div>
+        
+        <div style="margin-bottom:20px;">
+            <h3 style="color:#ff0000;font-weight:bold;font-size:1.4em;margin-bottom:15px;">SRN Seeds धोखेबाज कंपनी</h3>
+            <p style="color:#ff0000;font-weight:bold;font-size:1.2em;line-height:1.6;margin-bottom:10px;">
+                <strong>हिंदी:</strong><br>
+                SRN Seeds एक धोखेबाज कंपनी है।<br>
+                कंपनी मेरा ₹32,400 का भुगतान नहीं दे रही है।<br>
+                यह वेबसाइट डेवलपमेंट और होस्टिंग सेवाओं के लिए है।<br>
+                मैं पिछले दो महीने से भुगतान मांग रहा हूं।<br>
+                कृपया उनके साथ कोई भी व्यवसाय करने से पहले सावधान रहें।<br>
+                यदि आप इस चेतावनी को हटाना चाहते हैं, तो कृपया पूरी राशि का भुगतान करें।
+            </p>
+        </div>
+        
+        <div style="background:#ffebee;padding:15px;border-radius:8px;border:2px solid #ff0000;margin-top:20px;">
+            <p style="color:#d32f2f;font-weight:bold;font-size:1.1em;margin:0;">
+                <strong>Website:</strong> srnseeds.com<br>
+                <strong>Service:</strong> Website Development and Hosting<br>
+                <strong>Amount Due:</strong> ₹32,400<br>
+                <strong>Status:</strong> Payment Pending for 2+ Months
+            </p>
+        </div>
+        
+        <div style="margin-top:20px;font-size:0.9em;color:#666;">
+            <p style="margin:0;">This warning will continue to appear until payment is cleared.</p>
+            <p style="margin:5px 0 0 0;">यह चेतावनी तब तक दिखाई देगी जब तक भुगतान नहीं हो जाता।</p>
         </div>
     </div>
-    <!-- Permanent Payment Pending Popup End -->
+</div>
+<!-- SRN Seeds Warning Popup End -->
+
+<script>
+// SRN Seeds Warning Popup Functionality
+let warningPopupTimeout = null;
+
+function showWarningPopup() {
+    const popup = document.getElementById('srn-warning-popup');
+    popup.style.display = 'flex';
+    
+    // Add blinking effect to the inner container
+    const inner = document.getElementById('warning-popup-inner');
+    inner.style.animation = 'blink 1s infinite';
+}
+
+function hideWarningPopup() {
+    const popup = document.getElementById('srn-warning-popup');
+    popup.style.display = 'none';
+    
+    // Show again after 3 seconds
+    warningPopupTimeout = setTimeout(showWarningPopup, 3000);
+}
+
+// Initialize popup
+document.addEventListener('DOMContentLoaded', function() {
+    // Show popup after 2 seconds
+    setTimeout(showWarningPopup, 2000);
+    
+    // Close button functionality
+    document.getElementById('close-warning-popup').onclick = function() {
+        hideWarningPopup();
+    };
+    
+    // Also close on clicking outside the popup
+    document.getElementById('srn-warning-popup').onclick = function(e) {
+        if (e.target === this) {
+            hideWarningPopup();
+        }
+    };
+    
+    // Show popup every 30 seconds if it's not visible
+    setInterval(function() {
+        if (document.getElementById('srn-warning-popup').style.display === 'none') {
+            showWarningPopup();
+        }
+    }, 30000);
+});
+</script>
+
+<style>
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0.7; }
+    100% { opacity: 1; }
+}
+
+#srn-warning-popup {
+    font-family: Arial, sans-serif;
+}
+
+#warning-popup-inner {
+    position: relative;
+    animation: blink 1s infinite;
+}
+
+#close-warning-popup:hover {
+    color: #cc0000;
+    transform: scale(1.1);
+}
+
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+    #warning-popup-inner {
+        padding: 15px !important;
+        margin: 5px !important;
+        max-width: 95% !important;
+        width: auto !important;
+    }
+    
+    #warning-popup-inner h2 {
+        font-size: 1.4em !important;
+        margin-bottom: 15px !important;
+    }
+    
+    #warning-popup-inner h3 {
+        font-size: 1.2em !important;
+        margin-bottom: 10px !important;
+    }
+    
+    #warning-popup-inner p {
+        font-size: 1em !important;
+        line-height: 1.4 !important;
+        margin-bottom: 8px !important;
+    }
+    
+    #close-warning-popup {
+        font-size: 1.5em !important;
+        top: 5px !important;
+        right: 10px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    #warning-popup-inner {
+        padding: 10px !important;
+        margin: 2px !important;
+        max-width: 98% !important;
+    }
+    
+    #warning-popup-inner h2 {
+        font-size: 1.2em !important;
+        margin-bottom: 10px !important;
+    }
+    
+    #warning-popup-inner h3 {
+        font-size: 1.1em !important;
+        margin-bottom: 8px !important;
+    }
+    
+    #warning-popup-inner p {
+        font-size: 0.9em !important;
+        line-height: 1.3 !important;
+        margin-bottom: 6px !important;
+    }
+    
+    #close-warning-popup {
+        font-size: 1.3em !important;
+        top: 3px !important;
+        right: 8px !important;
+    }
+}
+</style>
 
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
