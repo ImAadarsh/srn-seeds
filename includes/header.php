@@ -9,7 +9,7 @@
     <meta name="description" content="SRN Seeds">
 
     <!-- ========== Page Title ========== -->
-    <title>SRN Seeds | Fraudster Alert | Warning | SRNSEEDS.COM</title>
+    <title>SRN Seeds</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
@@ -77,7 +77,7 @@
 <body>
 
 <!-- SRN Seeds Warning Popup Start -->
-<div id="srn-warning-popup" style="display:none;position:fixed;z-index:10000;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);align-items:center;justify-content:center;">
+<!-- <div id="srn-warning-popup" style="display:none;position:fixed;z-index:10000;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);align-items:center;justify-content:center;">
     <div id="warning-popup-inner" style="background:#fff;padding:20px;border-radius:16px;box-shadow:0 8px 32px rgba(0,0,0,0.5);max-width:90%;width:500px;margin:10px;text-align:center;border:3px solid #ff0000;animation:blink 1s infinite;">
         <span id="close-warning-popup" style="position:absolute;top:10px;right:15px;cursor:pointer;font-size:2em;color:#ff0000;font-weight:bold;">&times;</span>
         
@@ -123,7 +123,7 @@
             <p style="margin:5px 0 0 0;">यह चेतावनी तब तक दिखाई देगी जब तक भुगतान नहीं हो जाता।</p>
         </div>
     </div>
-</div>
+</div> -->
 <!-- SRN Seeds Warning Popup End -->
 
 <script>
