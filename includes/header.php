@@ -76,7 +76,7 @@
 
 <body>
 
-<!-- SRN Seeds Warning Popup Start -->
+<!-- SRN Seeds Warning Popup Start - COMMENTED OUT
 <div id="srn-warning-popup" style="display:none;position:fixed;z-index:10000;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);align-items:center;justify-content:center;">
     <div id="warning-popup-inner" style="background:#fff;padding:20px;border-radius:16px;box-shadow:0 8px 32px rgba(0,0,0,0.5);max-width:90%;width:500px;margin:10px;text-align:center;border:3px solid #ff0000;animation:blink 1s infinite;">
         <span id="close-warning-popup" style="position:absolute;top:10px;right:15px;cursor:pointer;font-size:2em;color:#ff0000;font-weight:bold;">&times;</span>
@@ -124,8 +124,9 @@
         </div>
     </div>
 </div>
-<!-- SRN Seeds Warning Popup End -->
+SRN Seeds Warning Popup End - COMMENTED OUT -->
 
+<!-- SRN Seeds Warning Popup JavaScript - COMMENTED OUT
 <script>
 // SRN Seeds Warning Popup Functionality
 let warningPopupTimeout = null;
@@ -172,7 +173,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 30000);
 });
 </script>
+COMMENTED OUT -->
 
+<!-- SRN Seeds Warning Popup CSS - COMMENTED OUT
 <style>
 @keyframes blink {
     0% { opacity: 1; }
@@ -256,6 +259,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 }
 </style>
+COMMENTED OUT -->
 
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
