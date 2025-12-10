@@ -76,7 +76,7 @@
 
 <body>
 
-<!-- SRN Seeds Warning Popup Start - COMMENTED OUT
+<!-- SRN Seeds Warning Popup Start -->
 <div id="srn-warning-popup" style="display:none;position:fixed;z-index:10000;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);align-items:center;justify-content:center;">
     <div id="warning-popup-inner" style="background:#fff;padding:20px;border-radius:16px;box-shadow:0 8px 32px rgba(0,0,0,0.5);max-width:90%;width:500px;margin:10px;text-align:center;border:3px solid #ff0000;animation:blink 1s infinite;">
         <span id="close-warning-popup" style="position:absolute;top:10px;right:15px;cursor:pointer;font-size:2em;color:#ff0000;font-weight:bold;">&times;</span>
@@ -88,7 +88,7 @@
             <p style="color:#ff0000;font-weight:bold;font-size:1.2em;line-height:1.6;margin-bottom:10px;">
                 <strong>ENGLISH:</strong><br>
                 SRN Seeds is a FRAUDSTER company.<br>
-                Company is not giving my payment of ₹32,400.<br>
+                Company is not giving my payment of ₹27,400.<br>
                 This is for Website Development and Hosting services.<br>
                 I'm chasing from last two months.<br>
                 Please CAUTION before doing any business with them.<br>
@@ -101,7 +101,7 @@
             <p style="color:#ff0000;font-weight:bold;font-size:1.2em;line-height:1.6;margin-bottom:10px;">
                 <strong>हिंदी:</strong><br>
                 SRN Seeds एक धोखेबाज कंपनी है।<br>
-                कंपनी मेरा ₹32,400 का भुगतान नहीं दे रही है।<br>
+                कंपनी मेरा ₹27,400 का भुगतान नहीं दे रही है।<br>
                 यह वेबसाइट डेवलपमेंट और होस्टिंग सेवाओं के लिए है।<br>
                 मैं पिछले दो महीने से भुगतान मांग रहा हूं।<br>
                 कृपया उनके साथ कोई भी व्यवसाय करने से पहले सावधान रहें।<br>
@@ -113,7 +113,7 @@
             <p style="color:#d32f2f;font-weight:bold;font-size:1.1em;margin:0;">
                 <strong>Website:</strong> srnseeds.com<br>
                 <strong>Service:</strong> Website Development and Hosting<br>
-                <strong>Amount Due:</strong> ₹32,400<br>
+                <strong>Amount Due:</strong> ₹27,400<br>
                 <strong>Status:</strong> Payment Pending for 2+ Months
             </p>
         </div>
@@ -124,9 +124,8 @@
         </div>
     </div>
 </div>
-SRN Seeds Warning Popup End - COMMENTED OUT -->
+<!-- SRN Seeds Warning Popup End -->
 
-<!-- SRN Seeds Warning Popup JavaScript - COMMENTED OUT
 <script>
 // SRN Seeds Warning Popup Functionality
 let warningPopupTimeout = null;
@@ -173,9 +172,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 30000);
 });
 </script>
-COMMENTED OUT -->
 
-<!-- SRN Seeds Warning Popup CSS - COMMENTED OUT
 <style>
 @keyframes blink {
     0% { opacity: 1; }
@@ -259,7 +256,6 @@ COMMENTED OUT -->
     }
 }
 </style>
-COMMENTED OUT -->
 
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
